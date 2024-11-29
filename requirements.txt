@@ -1,0 +1,8 @@
+streamlit==1.39.0
+streamlit-option-menu
+PyPDF2
+langchain
+langchain-huggingface
+faiss-cpu
+groq
+sentence-transformers
